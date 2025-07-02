@@ -108,7 +108,7 @@ class Program
         //Print both variables to the console
         Console.WriteLine(DoubleNum);
         Console.WriteLine(DoubleNum2);
-
+        Console.WriteLine("Double has a higher accuracy for the same number than float, so it recalls more decimal digits");
         //Step 9: Increment and Decrement
         int x = 10;
 
