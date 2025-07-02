@@ -1,4 +1,7 @@
-﻿namespace Lab1;
+﻿using System.Diagnostics;
+using System.Globalization;
+
+namespace Lab1;
 
 class Program
 {
@@ -48,6 +51,73 @@ class Program
         Console.WriteLine("myBool: " + myBool);
 
         //Step 6: User Input and Type Conversion
-        
+
+        //Prompts user to enter their name and store it in a string
+        Console.Write("Enter your name: ");
+        string name = Console.ReadLine();
+
+        //Prompts user to eneter their age and converts Console.ReadLine into Convery.ToInt2
+        Console.Write("Enter your age: ");
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        //Display the greeting that includes their name and age
+        Console.WriteLine($"Hello {name}, you are {age} years old!");
+
+        //Step 7: Arithmetic Operators
+
+        //Assign int values
+        int num1 = 5;
+        int num2 = 7;
+
+        //Addition- add 10 for num1
+        Console.WriteLine("Addition for num1 is " + (num1 + 10));
+
+        //Subtraction - subtract 2 for num1
+        Console.WriteLine("Subtraction for num1 is " + (num1 - 2));
+
+        //Multiplication - times 3 for num1
+        Console.WriteLine("Multiplication for num1 is " + (num1 * 3));
+
+        //Division - divide by 2 for num1
+        Console.WriteLine("Division for num2 is " + (num1 / 2));
+
+        //Modulus - modulus 2 for num1
+        Console.WriteLine("Modulus for num1 is" + (num1 % 2));
+
+        //Addition- add 10 for num2
+        Console.WriteLine("Addition for num2 is " + (num2 + 10));
+
+        //Subtraction - subtract 2 for num2
+        Console.WriteLine("Subtraction for num2 is " + (num2 - 2));
+
+        //Multiplication - times 3 for num2
+        Console.WriteLine("Multiplication for num2 is " + (num2 * 3));
+
+        //Division - divide by 2 for num2
+        Console.WriteLine("Division for num2 is " + (num2 / 2));
+
+        //Modulus - modulus 2 for num2
+        Console.WriteLine("Modulus for num2 is " + (num2 % 2));
+
+        //Step 8: Floating Point Precision
+
+        //Create and assign both float and double variable
+        double DoubleNum = 1.123456789D;
+        float DoubleNum2 = 1.123456789F;
+
+        //Print both variables to the console
+        Console.WriteLine(DoubleNum);
+        Console.WriteLine(DoubleNum2);
+
+        //Step 9: Increment and Decrement
+        int x = 10;
+
+        //Increment operator to increase value by 1
+        x++;
+        Console.WriteLine($"After Incremnt: {x} ");
+
+        //Decrement operator to decrease value by 1
+        x--;
+         Console.WriteLine($"After decrement: {x} ");
     } 
 }
