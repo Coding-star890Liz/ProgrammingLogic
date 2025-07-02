@@ -7,9 +7,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        //step 1: Comments
-        //Name: Medha Bhattacharyya
-        //Title: IT-1050 - Lab 1
+        // step 1: Comments
+        /*Name: Medha Bhattacharyya
+        Title: IT-1050 - Lab 1
+        */
 
         // Step 2: Basic Output
         Console.WriteLine("MedhaBhattacharyya");
