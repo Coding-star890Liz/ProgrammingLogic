@@ -1,4 +1,11 @@
-﻿using System.Diagnostics;
+﻿// step 1: Comments
+// Comments are used to explain and document the code 
+/*
+Name: Medha Bhattacharyya
+Title: IT-1050 - Lab 1
+*/
+
+using System.Diagnostics;
 using System.Globalization;
 
 namespace Lab1;
@@ -7,13 +14,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // step 1: Comments
-        // Comments are used to explain and document the code 
-        /*
-        Name: Medha Bhattacharyya
-        Title: IT-1050 - Lab 1
-        */
-
         // Step 2: Basic Output
         //Console.WriteLine prints the text inside the parenthesis
         Console.WriteLine("Medha Bhattacharyya");
