@@ -1,4 +1,9 @@
-﻿namespace Lab3;
+﻿/*
+Name: Medha Bhattacharyya
+Title: IT-1050 - Lab 1
+*/
+
+namespace Lab3;
 
 class Program
 {

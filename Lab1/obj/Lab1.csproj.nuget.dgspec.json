@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ProgrammingLogic/Lab1/Lab1.csproj": {}
+    "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "/workspaces/ProgrammingLogic/Lab1/Lab1.csproj": {
+    "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ProgrammingLogic/Lab1/Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "/workspaces/ProgrammingLogic/Lab1/Lab1.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ProgrammingLogic/Lab1/obj/",
+        "projectPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj",
+        "packagesPath": "C:\\Users\\Medha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Medha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

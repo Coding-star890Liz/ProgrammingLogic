@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\Medha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ProgrammingLogic/Lab3/Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Medha\\ProgrammingLogic\\Lab3\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "/workspaces/ProgrammingLogic/Lab3/Lab3.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ProgrammingLogic/Lab3/obj/",
+      "projectPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab3\\Lab3.csproj",
+      "packagesPath": "C:\\Users\\Medha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Medha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
