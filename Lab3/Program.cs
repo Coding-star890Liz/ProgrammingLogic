@@ -58,21 +58,25 @@ class Program
 
         //Problem 6: Days of the Week (1–7)
         //This is an array that prompts the user to enter a number between 1-7 and prints it; it also handles incorrect input
-        string[] days = new string[] { "Saturday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Sunday" };
-        Console.Write("Enter a number between 1-7 : ");
-        int input = int.Parse(Console.ReadLine());
-        for (int i = 0; i < days.Length; ++i)
+        string[] days = new string[] { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+        Console.Write("Enter a number between 1-7 for Days of the week: ");
+        string input = Console.ReadLine();
+        
+        //Checking if valid input enetered
+        if (uint.TryParse(input, out uint Number))
         {
-            if (input >= 1 && input <= 7)
+            if (Number >= 1 && Number <= 7)
             {
-                Console.WriteLine("Day " + input + " is " + days[i]);
-                break;
+                Console.WriteLine("Day " + Number + " is " + days[Number - 1]);
             }
             else
             {
-                Console.WriteLine("Incorrect input");
-                break;
+                Console.WriteLine("Entered number outside of 1 to 7");
             }
+        }
+        else
+        {
+            Console.WriteLine("Incorrect input entered!");
         }
 
         //Problem 7: Favorite Books and Authors
@@ -92,19 +96,17 @@ class Program
         {
             Console.WriteLine(temp);
         }
-        Console.WriteLine("The Highest Temperature is:" + temperatures[0]);
-        Console.WriteLine("The Highest Temperature is:" + temperatures[4]);
+        Console.WriteLine("The Highest Temperature is: " + temperatures[0]);
+        Console.WriteLine("The Highest Temperature is: " + temperatures[4]);
 
         //problem 9: Reverse Countdown
-        //This is an array and using Array.Reverse() reverse the countdown and prints the numbers using a for loop
-        int[] num = new int[] { 5, 4, 3, 2, 1 };
+        //This is an array and using Array.Reverse() to reverse the countdown and prints the numbers using a for loop
+        int[] num = { 5, 4, 3, 2, 1 };
         Array.Reverse(num);
         Console.WriteLine("The Reverse array is:");  
         for (int i = 0; i < num.Length; i++)
         {
             Console.WriteLine(num[i]);
-
-        }
-        
+        }        
     }
 }
