@@ -1,0 +1,15 @@
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\bin\Debug\net9.0\Lab4.exe
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\bin\Debug\net9.0\Lab4.deps.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\bin\Debug\net9.0\Lab4.runtimeconfig.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\bin\Debug\net9.0\Lab4.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\bin\Debug\net9.0\Lab4.pdb
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfoInputs.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.AssemblyInfo.cs
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.csproj.CoreCompileInputs.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.sourcelink.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\refint\Lab4.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.pdb
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\Lab4.genruntimeconfig.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab4\obj\Debug\net9.0\ref\Lab4.dll
