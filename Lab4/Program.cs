@@ -26,7 +26,20 @@ class Car
     {
         Console.WriteLine($"The car drove {miles} miles");
     }
-   
+
+   //Problem 3: Add a Method with a Return Value
+    public string GetDescription()
+    {
+        string CardDescription = model + " " + year + " " + color;
+        return CardDescription;
+    }
+
+    // Problem 4: Add a Method that Updates a Field
+    public void Repaint(string newColor)
+    {
+        color = newColor;
+        Console.WriteLine($"\r\nMy car has been repainted to {color}");
+    }
 }
 
 class Program
@@ -46,6 +59,16 @@ class Program
 
         //Step 2 call method
         myCar.Drive(50);
+
+        //Step 3 call method
+        string CarDescr = myCar.GetDescription();
+        Console.Write(CarDescr);
+
+        //Step 4 Call method 
+        myCar.Repaint("red");
+        Console.WriteLine("New updated Car data after repaint: ");
+        myCar.Display();
+
     }
 }
 
