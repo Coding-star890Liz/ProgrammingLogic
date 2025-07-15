@@ -56,6 +56,7 @@ class Program
         myCar.color = "Black";
         myCar.year = 2020;
 
+        Console.WriteLine("\r\n");
         myCar.Display(); // Calling the Display method
 
         //Step 1 call method
@@ -70,7 +71,7 @@ class Program
 
         //Step 4 Call method 
         myCar.Repaint("red");
-        Console.WriteLine("New updated Car data after repaint: ");
+        Console.WriteLine("\r\nNew updated Car data after repaint: ");
         myCar.Display();
 
     }
