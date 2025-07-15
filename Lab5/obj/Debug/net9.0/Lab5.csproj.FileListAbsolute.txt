@@ -1,0 +1,15 @@
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfoInputs.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfo.cs
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.csproj.CoreCompileInputs.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.sourcelink.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\bin\Debug\net9.0\Lab5.exe
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\bin\Debug\net9.0\Lab5.deps.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\bin\Debug\net9.0\Lab5.runtimeconfig.json
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\bin\Debug\net9.0\Lab5.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\bin\Debug\net9.0\Lab5.pdb
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\refint\Lab5.dll
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.pdb
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\Lab5.genruntimeconfig.cache
+C:\All\TriC\CCP\IT 1050\Code\ProgrammingLogic\Lab5\obj\Debug\net9.0\ref\Lab5.dll

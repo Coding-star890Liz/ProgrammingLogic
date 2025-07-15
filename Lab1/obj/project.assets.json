@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\All\\TriC\\CCP\\IT 1050\\Code\\ProgrammingLogic\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\Lab1.csproj",
+      "projectPath": "C:\\All\\TriC\\CCP\\IT 1050\\Code\\ProgrammingLogic\\Lab1\\Lab1.csproj",
       "packagesPath": "C:\\Users\\Medha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Medha\\ProgrammingLogic\\Lab1\\obj\\",
+      "outputPath": "C:\\All\\TriC\\CCP\\IT 1050\\Code\\ProgrammingLogic\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Medha\\AppData\\Roaming\\NuGet\\NuGet.Config"
