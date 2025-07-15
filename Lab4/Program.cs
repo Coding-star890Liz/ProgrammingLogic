@@ -18,27 +18,31 @@ class Car
     //Problem 1: Add a Method with No Parameters
     public void Start()
     {
+        Console.WriteLine("\r\n***Problem 1***");
         Console.WriteLine("The Car is starting");
     }
 
     //Problem 2: Add a Method with Parameters
     public void Drive(int miles)
     {
+        Console.WriteLine("\r\n***Problem 2***");
         Console.WriteLine($"The car drove {miles} miles");
     }
 
    //Problem 3: Add a Method with a Return Value
     public string GetDescription()
     {
+        Console.WriteLine("\r\n***Problem 3***");
         string CardDescription = model + " " + year + " " + color;
         return CardDescription;
-    }
+    } 
 
     // Problem 4: Add a Method that Updates a Field
     public void Repaint(string newColor)
     {
+        Console.WriteLine("\r\n\r\n***Problem 4***");
         color = newColor;
-        Console.WriteLine($"\r\nMy car has been repainted to {color}");
+        Console.WriteLine($"My car has been repainted to {color}");
     }
 }
 
